@@ -7,8 +7,9 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
+		"cors": "^2.8.1",
 		"express": "^5.0.0-alpha.2",
-		"cors": "^2.8.1"
+		"express-fileupload": "^1.2.0"
 	},
 	"engines": {
 		"node": "4.4.5"
